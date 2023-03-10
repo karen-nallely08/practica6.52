@@ -2,24 +2,25 @@
 /* * {
     margen: 0;
     relleno: 0;
-    borde: 1px azul violeta sólido;
-    borde-radio: 5px;
+    border: 1px azul violeta sólido;
+    border-radius: 5px;
 } */
 
 /* Selector de tipo */
 /* principal {
-    color de fondo: naranja;
-    borde-radio: 5px;
+    background-color: naranja;
+    border-radius: 5px;
 } */
 
 /* Selector por ID */
 /* #tarta {
-    color de fondo: aguamarina;
+    background-color: aguamarina;
 }
 #encabezado {
-    color de fondo: aguamarina;
+    background-color: aguamarina;
 } */
 
 #pie , #encabezado, aparte {
-    color :aquamarine;
+
+    background-color:aquamarine;
 }
