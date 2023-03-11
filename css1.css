@@ -1,0 +1,25 @@
+/* Selector universal */
+/* * {
+    margen: 0;
+    relleno: 0;
+    borde: 1px azul violeta sólido;
+    borde-radio: 5px;
+} */
+
+/* Selector de tipo */
+/* principal {
+    color de fondo: naranja;
+    borde-radio: 5px;
+} */
+
+/* Selector por ID */
+/* #tarta {
+    color de fondo: aguamarina;
+}
+#encabezado {
+    color de fondo: aguamarina;
+} */
+
+#pie , #encabezado, aparte {
+    color :aquamarine;
+}
